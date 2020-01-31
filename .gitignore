@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# python cache files
+__pycache__/
+*.py[cod]
+
+# swap files
+*.swp
+*.swo
+
+# data directory
+data/
