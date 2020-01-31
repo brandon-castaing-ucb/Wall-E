@@ -16,4 +16,4 @@ __pycache__/
 *.swo
 
 # data directory
-./data/*
+data/
