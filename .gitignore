@@ -17,3 +17,7 @@ __pycache__/
 
 # data directory
 data/
+val2017/
+
+# ipython checkpoints
+.ipynb_checkpoints/
