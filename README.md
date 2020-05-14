@@ -1,4 +1,6 @@
 # Wall-E
+https://www.digitalwalle.com/
+
 Object classification and segmentation of trash to aid in cleaning efforts of natural and urban areas
 
 1st two supported use cases:
